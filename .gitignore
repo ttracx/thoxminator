@@ -1,0 +1,15 @@
+node_modules
+.vercel
+.grok
+.tanstack
+screenshots
+dist
+artifacts
+*.pyc
+__pycache__
+.env
+.env.*
+local-agent-cell
+papers/**/*.zip
+.node_modules.lock
+.DS_Store
